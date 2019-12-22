@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository for Applied Data Science Capstone (course 9) of IBM's proffesional certification in data science.
+Repository for the Applied Data Science Capstone (the last of 9 courses) in IBM's data science proffesional certification issued by Coursera.
