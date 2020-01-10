@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-Repository for the certification's final capstone project files.
+Repository for the certification's final project.
 
 1) Final project: Selecting a place to build a new shopping mall in Quito, Ecuador (1st and 2nd files on the repository).
 2) Preparation assigment: Clustering and segmenting neighborhoods in Toronto, Canada (3th file on the repository).
