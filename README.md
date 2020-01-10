@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate
+## IBM Data Science Professional Certificate (Coursera)
 
 Repository for the certification's final project.
 
