@@ -1,6 +1,9 @@
 # IBM Data Science Professional Certificate
 
-Repository of assigments done for the Applied Data Science Final Project Capstone (the last of 9 courses) of my data science proffesional certificate.
+Repository for the certification's final capstone project files.
+
+1) Final project: Selecting a place to build a new shopping mall in Quito, Ecuador (1st and 2nd files on the repository).
+2) Preparation assigment: Clustering and segmenting neighborhoods in Toronto, Canada (3th file on the repository).
 
 The course's badge and the professional certificate were issued by Coursera:
 https://www.youracclaim.com/badges/0306caf0-50d4-437f-a5e0-759b82af4dfa/linked_in_profile
